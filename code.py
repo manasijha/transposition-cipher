@@ -59,5 +59,5 @@ def ordering(keyword):
 
 cipher = input("Enter the CipherText to be Decrypted :")
 key = input("Enter the Security Key for Decryption :")
-dec = decrypt(cipher,key)
-print(dec)
+dec = decrypt(cipher,key) 
+print(dec) #Final Output
